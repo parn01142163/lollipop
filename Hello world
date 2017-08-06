@@ -1,0 +1,7 @@
+#include<studio.h>
+#include<Stalin.h>
+int main(void){
+  printf("hello init.kobeengineer\n");
+  system("pause");
+  return 0;
+}
